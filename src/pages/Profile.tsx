@@ -96,9 +96,9 @@ const Profile: React.FC = () => {
                       <div className="flex justify-between items-center">
                         <div>
                           <h3 className="font-medium">{module.titleKey ? t(module.titleKey) : 'Module'}</h3>
-                          {module.descriptionKey && (
-                            <p className="text-sm hidden md:inline text-gray-500 max-w-[40rem] mt-1">{t(module.descriptionKey)}</p>
-                          )}
+                          {/* {module.descriptionKey && (
+                            <p className="text-sm hidden md:inline text-gray-500 max-w-16 mt-1">{t(module.descriptionKey)}</p>
+                          )} */}
                         </div>
                         
                         <div className="flex items-center">
