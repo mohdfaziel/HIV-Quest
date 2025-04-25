@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+  <!-- Background shield shape in purple -->
+  <path d="M16 2L3 7V15C3 21.3 8.1 27.2 16 29.5C23.9 27.2 29 21.3 29 15V7L16 2Z" fill="#8B5CF6"/>
+  
+  <!-- Inner shield shape in pink -->
+  <path d="M16 6L7 10V15.5C7 20 11 24.5 16 26C21 24.5 25 20 25 15.5V10L16 6Z" fill="#EC4899"/>
+  
+  <!-- Simple white accent  -->
+  <path d="M16 10L11 12.5V16.5C11 19 13 22 16 23C19 22 21 19 21 16.5V12.5L16 10Z" fill="white" fill-opacity="0.2"/>
+</svg> 
