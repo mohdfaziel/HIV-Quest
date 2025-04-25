@@ -172,7 +172,7 @@ const ContactUs: React.FC = () => {
                   />
                 </div>
                 
-                <div className="flex justify-end">
+                <div className="flex justify-center md:justify-end">
                   <button
                     type="submit"
                     disabled={isSubmitting}
